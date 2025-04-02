@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.futurepay",
+      "sha256_cert_fingerprints": [
+        "6A:47:74:F2:42:A8:20:F3:15:40:4A:DF:94:65:CC:FC:7F:ED:DE:59:59:79:78:F8:E5:CD:1B:0F:CD:14:8D:00"
+      ]
+    }
+  }
+]
